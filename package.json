@@ -1,0 +1,20 @@
+{
+  "name": "violet-llamaindex-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@llamaindex/core": "^0.6.2",
+    "@llamaindex/huggingface": "^0.1.2",
+    "@llamaindex/ollama": "^0.1.2",
+    "@llamaindex/readers": "^3.0.2",
+    "llamaindex": "^0.9.17"
+  }
+}

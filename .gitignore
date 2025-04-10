@@ -1,0 +1,7 @@
+node_modules/
+# 构建输出目录
+dist/
+out/
+
+# 操作系统生成文件
+.DS_Stor
