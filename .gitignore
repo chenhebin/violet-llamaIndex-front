@@ -5,3 +5,6 @@ out/
 
 # 操作系统生成文件
 .DS_Stor
+
+# 忽略src/storage下所有文件
+src/storage/**
