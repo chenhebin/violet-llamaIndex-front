@@ -170,6 +170,8 @@ ollama ps
 # 查看存储目录结构
 ls -l storage/ragTest/
 ```
+## github地址
+> https://github.com/chenhebin/violet-llamaIndex-front  
 
 ## 📚 学习资源
 - LlamaIndex官方文档：https://ts.llamaindex.ai/
